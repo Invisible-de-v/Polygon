@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Многоугольники_2._1
+namespace Многоугольники_3._0
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Многоугольники_2._1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Форма());
+            Application.Run(new Form());
         }
     }
 }
